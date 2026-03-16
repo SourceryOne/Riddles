@@ -1,0 +1,40 @@
+BOM for Riddles with LCSC part numbers	
+* Revised 260316 added 100nF
+		
+LCSC partnr	Name	                    Nr of components
+C113597	    40 pin header	            1
+C5665	      2x5 IDC connector (Power)	1
+c2935978	  1x7 female header	        2
+c49661	    1x2 femaler header	      2
+C2326	      DIL 16 IC socket	        2
+C2325	      DIL 14 IC socket	        2
+C72124	    DIL 8 IC socket	          2
+other	      Thonkiconns + nuts	      9
+other	      B10K Alpha Pots	          3
+	          510 ohm resistor	        4
+	          1k resistor	              8
+	          1k5 resistor	            1
+	          15k resistor	            2
+	          22k resistor	            3
+	          33k resistor	            8
+	          39k resistor	            3
+	          47k resistor	            3
+	          62k resistor	            1
+	          100k resistor	            10
+	          300k resistor	            1
+c2832517	  47pF 	                    4
+c2832511	  220pF	                    4
+c277984	    560pF	                    7
+c254085	    100nF	                    8
+C393118	    220nF	                    2
+C43841	    4u7	                      1
+C388475	    100uF	                    2
+C402217	    1N5818	                  2
+C84410	    1N4148	                  2
+C241985	    BZX55C5V1	                1
+C521165	    XD13700/LM13700	          1
+C110329	    TL072	                    2
+C133542	    TL074	                    2
+C118539	    2N3906	                  2
+other	      V2164M/AS2164	            1
+C5205020	  5k trimpot	              1
